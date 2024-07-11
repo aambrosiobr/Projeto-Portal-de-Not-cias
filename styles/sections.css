@@ -8,6 +8,7 @@ section header {
     width: 16px;
     height: 16px;
   }
+
   a {
     justify-self: end;
     align-items: center;
